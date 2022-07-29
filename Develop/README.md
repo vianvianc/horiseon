@@ -6,4 +6,4 @@ Here is a link to the deployed app:
 
 The website should look like this:
 
-(./assets/images/demo.png)
+(./images/demo.png)
